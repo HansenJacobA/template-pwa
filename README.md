@@ -4,7 +4,7 @@ This is a Typescript, NextJS, and Chakra UI template to easily and quickly creat
 
 ## Set Up
 
-1. Fork and clone this repository or copy the files into your application.
+1. Create a new repository on Github and select this repository as a template or fork and clone this repository or copy the files into your application.
 
 2. Keep or create your own package.json and follow the promps with the command below
 
