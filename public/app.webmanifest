@@ -1,0 +1,28 @@
+{
+  "name": "App Name",
+  "short_name": "App Name",
+  "start_url": "/",
+  "theme_color": "#1A202C",
+  "background_color": "#1A202C",
+  "scope": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/maskable_icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "description": "Application description here."
+}
