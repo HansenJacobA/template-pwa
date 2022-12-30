@@ -42,7 +42,7 @@ npm run dev
 
 2. Create your own icon image then upload and download the maskable version and sizes using this PWA [website](https://maskable.app/)
 
-3. Replace with template icons within public/icons with your icon images and use the same names.
+3. Replace the template icons within public/icons with your icon images and use the same names.
 
 4. Replace the public/favicon.ico template icon with your own icon image and use the same file name.
 
